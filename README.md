@@ -3,7 +3,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/snzt1k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snzt1k1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/t1k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="t1k1" height="30" width="40" /></a>
 <a href="https://t.me/snzt1k1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/94898232/202649241-d6a66781-2272-48e2-a97f-91b16dd943a5.png" alt="t1k1" height="30" width="30" /></a>
 </p>
